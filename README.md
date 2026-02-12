@@ -1,4 +1,4 @@
-                                                                 Proyecto de Análisis SQL con Northwind: Insights Estratégicos
+                                         Proyecto de Análisis SQL con Northwind: Insights Estratégicos
 
 
                                                                  
@@ -71,7 +71,7 @@ Para cada cliente se calcula el ingreso total sumando el precio de los productos
  Tecnologías utilizadas
  -----------------------------------
 
-SQL Server (T-SQL)
+SQL Server (T-SQL) , 
 Base de datos: Northwind
 
 
